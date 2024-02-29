@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+
+# Compiled JavaScript files
+dist/
+
+# Dependency directories
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore cache and lock files
+.cache/
+.lock
+
+# Ignore GraphQL schema files if they're generated
+# Uncomment these lines if you generate GraphQL schema files during development
+# schema.graphql
+# schema.json
